@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 敏感配置
+.env
+.env.local
+
+# Codex 本地状态
+.codex/
+
+# 日志
+*.log
